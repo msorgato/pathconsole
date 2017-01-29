@@ -1,0 +1,21 @@
+{
+  "name": "pathconsole",
+  "version": "1.0.0",
+  "description": "Pathfinder PG console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pathfinder",
+    "console",
+    "angular",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Mattia Sorgato",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.22"
+  }
+}
